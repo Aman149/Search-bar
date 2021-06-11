@@ -1,3 +1,8 @@
+![Stearch Bar image](https://github.com/Aman149/Search-bar/blob/main/Samples/1.PNG)
+![Stearch Bar while Seatching ](https://github.com/Aman149/Search-bar/blob/main/Samples/2.PNG)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
