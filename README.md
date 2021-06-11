@@ -1,8 +1,10 @@
-## Stearch Bar
+# A basic search bar made with React JS 
+
+# Stearch Bar
 
 ![Stearch Bar image](https://github.com/Aman149/Search-bar/blob/main/Samples/1.PNG)
 
-## Stearch bar in action
+# Stearch bar in action
 
 ![Stearch Bar while Seatching ](https://github.com/Aman149/Search-bar/blob/main/Samples/2.PNG)
 
